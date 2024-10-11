@@ -9,7 +9,7 @@ I've been working during 5 years in this area and I've been learning, improving 
 
 ## Tecnologies that I'm currently using on my actual job
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bash-light.svg" width="60" height="60"></a>
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aws-dark.svg" width="60" height="60"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/aws.svg" width="60" height="60"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/python-dark.svg" width="60" height="60"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/bitbucket-light.svg" width="60" height="60"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/jira-dark.svg" width="60" height="60"></a>
